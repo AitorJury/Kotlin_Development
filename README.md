@@ -1,2 +1,2 @@
 This repository contains all the projects I've developed in Kotlin, showcasing the type of programming I use.
-The project that best exemplifies my experience is 'Flashcards Project,' which is a small part of my final training project.
+The project that best exemplifies my experience is 'Flashcards Project,' which is a small part of my final training project. It consists of an application that uses the 'Flashcard' format for learning. The project has been developed entirely by me, including formats, designs, and functionalities. Everything you see in the project was created personally.
