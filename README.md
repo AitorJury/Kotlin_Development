@@ -1,2 +1,19 @@
-This repository contains all the projects I've developed in Kotlin, showcasing the type of programming I use.
-The project that best exemplifies my experience is 'Flashcards Project,' which is a small part of my final training project. It consists of an application that uses the 'Flashcard' format for learning. The project has been developed entirely by me, including formats, designs, and functionalities. Everything you see in the project was created personally.
+# Kotlin & Compose Sandbox 📱 | Mobile Development Showcase
+
+Colección de proyectos de desarrollo multiplataforma enfocados en la arquitectura moderna de Android y el uso de **Jetpack Compose**.
+
+## 🌟 Proyecto Destacado: FlashcardsProject
+El proyecto más avanzado de esta colección, centrado en el aprendizaje activo.
+* **UI/UX:** Interfaz fluida y reactiva desarrollada íntegramente con **Compose**.
+* **Arquitectura:** Implementación de patrones **MVVM** para una separación clara entre la lógica de negocio y la interfaz.
+* **Lógica Interna:** Sistema preciso de gestión de estados para el ciclo de estudio de las tarjetas.
+
+## 📂 Otros Proyectos en este Lab
+* **UI Components:** Galería de componentes personalizados y navegación.
+* **API Integration:** Ejemplos de consumo de servicios y tratamiento de datos.
+
+---
+## 🛠️ Tecnologías
+- **Language:** Kotlin
+- **UI Framework:** Jetpack Compose
+- **Design:** Material Design 3
